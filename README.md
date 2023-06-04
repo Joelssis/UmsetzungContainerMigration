@@ -9,4 +9,8 @@
   SQL-Dump der Moodle-Datenbank  
     
   # Mysql2.sql
-  SQL-Dump der Mysql-Datenbank
+  SQL-Dump der Mysql-Datenbank  
+    
+      
+  # Versionierung  
+  Versionierung haben wir keine, da die Skripte alle im ersten Versuch bereits korrekt waren / keine Anpassungen gemacht wurden.
